@@ -1,0 +1,27 @@
+/*welcome*/
+#welcome{
+ color: white;
+ font-size: 35px;
+ background-color: black;
+ height: 85px;
+ width: 100%;
+}
+
+/* style content */
+#content {
+ height: 380px;
+ width: 72%;
+ float: right;
+ border:dotted blue 1px;
+ padding: 26px;
+ text-align: left;
+ font-size: 25px;
+}
+
+/* style sidebar */
+#sidebar {
+ background:silver;
+ height: 380px;
+ width: 18%;
+ padding: 27px;
+}

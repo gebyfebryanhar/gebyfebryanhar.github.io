@@ -1,0 +1,64 @@
+/*facebook*/
+.social-media-button {
+	border:3;
+	color:#ffffff;
+	font-size: 14px;
+	padding: 0.5em 1em;
+}
+.social-media-button:hover {
+	opacity: 2;
+}
+.social-media-button.icon:before {
+    font-family: "FontAwesome";
+    padding-right: 1em;
+}
+.social-media-button.icon.facebook:before {
+    content: "\f230";
+}
+.social-media-button.facebook {
+    background: #3b5998;
+}
+
+
+	/*instagram*/
+.social-media-button {
+	border:3;
+	color:#ffffff;
+	font-size: 14px;
+	padding: 0.5em 1em;
+}
+.social-media-button:hover {
+	opacity: 2;
+}
+.social-media-button.icon:before {
+    font-family: "FontAwesome";
+    padding-right: 1em;
+}
+.social-media-button.icon.instagram:before {
+    content: "\f16d";
+}
+.social-media-button.instagram {
+    background: #f58529;
+}
+
+
+	/*whatsapp*/
+.social-media-button {
+	border:3;
+	color:#ffffff;
+	font-size: 14px;
+	padding: 0.5em 1em;
+}
+.social-media-button.icon:before {
+    font-family: "FontAwesome";
+    padding-right: 1em;
+}
+.social-media-button:hover {
+	opacity: 2;
+}
+.social-media-button.icon.whatsapp:before {
+    content: "\f232";
+}
+.social-media-button.whatsapp {
+    background: #43d854;
+}
